@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized steampunk shop
+* source:	https://sketchfab.com/3d-models/stylized-steampunk-shop-680459fd6eb443d587f312bf08bf7a0a
+* author:	cwidjaja6 (https://sketchfab.com/cwidjaja6)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized steampunk shop" (https://sketchfab.com/3d-models/stylized-steampunk-shop-680459fd6eb443d587f312bf08bf7a0a) by cwidjaja6 (https://sketchfab.com/cwidjaja6) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

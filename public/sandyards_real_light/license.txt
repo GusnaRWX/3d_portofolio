@@ -1,0 +1,8 @@
+Model Information:
+* title:	Sandyards Real light
+* source:	https://sketchfab.com/3d-models/sandyards-real-light-958df13d17474e5bb4e603e24e2099bb
+* author:	light game (https://sketchfab.com/gogameoffical)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
