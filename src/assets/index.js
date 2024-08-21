@@ -36,8 +36,11 @@ import dgNewLogo from './dg-new-logo.svg'
 
 import vue from './tech/vue_logo.png'
 import next from './tech/next_logo.png'
+import nuxt from './tech/nuxt.svg'
 import accountingInventory from './accounting-inventory.png'
 import qoligoReport from './qoligo-pos-report.png'
+import undpApp from './undpApp.png'
+import oetomoCompro from './oetomoCompro.png'
 import akbar from './person/akbar.jpg'
 import andri from './person/andri.jpg'
 import sasa from './person/sasa.jpg'
@@ -84,5 +87,8 @@ export {
   andri,
   sasa,
   thugi,
-  zulfan
+  zulfan,
+  nuxt,
+  undpApp,
+  oetomoCompro
 }

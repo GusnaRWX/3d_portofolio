@@ -20,7 +20,9 @@ import {
   andri,
   sasa,
   thugi,
-  zulfan
+  zulfan,
+  undpApp,
+  oetomoCompro
 } from "../assets"
 
 export const navLinks = [
@@ -45,6 +47,10 @@ const services = [
   },
   {
     title: "React Developer",
+    icon: mobile,
+  },
+  {
+    title: "Vue Developer",
     icon: mobile,
   },
 ]
@@ -190,7 +196,7 @@ const experiences = [
       "Maintenance feature and communicate with clients.",
       "Wrote highly maintainable, forming core framework.",
       "Consume api",
-      "Implementing resoponsive and cross-platform website.",
+      "Implementing responsive and cross-platform website.",
     ],
   },
   {
@@ -235,7 +241,7 @@ const experiences = [
     company_name: "Dimy Teknololgi Indonesia",
     icon: vue,
     iconBg: "#E6DEDD",
-    date: "January 2023 - Agustus 2023",
+    date: "January 2023 - February 2024",
     points: [
       "Developing website.",
       "Developing webapps from scratch.",
@@ -253,7 +259,7 @@ const experiences = [
     company_name: "Dimy Teknologi Indonesia",
     icon: next,
     iconBg: "#E6DEDD",
-    date: "October 2023 - Current",
+    date: "October 2023 - November 2023",
     points: [
       "Developing website.",
       "Developing webapps from scratch.",
@@ -264,6 +270,45 @@ const experiences = [
       "Wrote highly maintainable, forming core framework.",
       "Consume api",
       "Implementing resoponsive and cross-platform website.",
+    ],
+  },
+  {
+    title: "React JS (Next JS) Developer",
+    project: 'UNDP Dashboard',
+    company_name: "PT. Sundawa",
+    icon: next,
+    iconBg: "#E6DEDD",
+    date: "February 2024 - Now",
+    points: [
+      "Developing website.",
+      "Developing webapps from scratch.",
+      "Slicing design based on figma",
+      "Initialize project",
+      "Implement redux toolkit and redux saga",
+      "worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionallity, scalabilty and performance",
+      "Wrote highly maintainable, forming core framework.",
+      "Consume api",
+      "Implementing responsive and cross-platform website.",
+    ],
+  },
+  {
+    title: "React JS (Next JS) Developer",
+    project: 'Oetomo Hospital Company Profile',
+    company_name: "PT. Sundawa",
+    icon: next,
+    iconBg: "#E6DEDD",
+    date: "February 2024 - July 2024",
+    points: [
+      "Developing website.",
+      "Developing webapps from scratch.",
+      "Slicing design based on figma",
+      "Initialize project",
+      "Implement zustand",
+      "Implement GSAP and framer-motion for animation",
+      "worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionallity, scalabilty and performance",
+      "Wrote highly maintainable, forming core framework.",
+      "Consume api",
+      "Implementing responsive and cross-platform website.",
     ],
   },
 ]
@@ -355,6 +400,60 @@ const projects = [
       },
     ],
     image: accountingInventory,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "UNDP Dashboard",
+    description:
+        "Web-based platform that allows users to check report for event meeting and attendee when for the official government.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "redux toolkit",
+        color: "green-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: undpApp,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Oetomo Hospital Company Profile",
+    description:
+        "Web-based platform that show company profile of oetomo hospital and in there several features such as article, doctor schedule and many more",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "GSAP",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "framer motion",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "scratch component",
+        color: "green-text-gradient",
+      },
+    ],
+    image: oetomoCompro,
     source_code_link: "https://github.com/",
   },
 ]
